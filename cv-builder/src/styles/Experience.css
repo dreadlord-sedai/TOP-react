@@ -1,0 +1,12 @@
+.section {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+input, textarea {
+  display: block;
+  margin: 5px 0;
+  padding: 8px;
+  width: 100%;
+}
